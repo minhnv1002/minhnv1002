@@ -1,5 +1,5 @@
 ![Header](hd1.png)
-<h1align="center">Xin chào 👋, tôi là Minh</h1>
+<h1 align="center">Xin chào 👋, tôi là Minh</h1>
 <h3align="center">Thích Tự học - Lập trình cùng bạn bè là niềm vui.</h3>
 <img align="right" alt="Coding" width="400" src="https://devhumor.com/content/uploads/images/January2020/Food-coma-animation.gif">
 - 💬 Hỏi tôi về * *.NET framework, C#, ASP.NET CORE**
