@@ -8,8 +8,8 @@
 
 - ⚡ Thông tin thú vị **Troller**
 
-<h3align="left">Kết nối với tôi:< /h3>
-<palign="left">
+<h3  align="left">Kết nối với tôi:< /h3>
+<p align="left">
 </p>
 
 <h3align="left">Ngôn ngữ và công cụ:</h3>
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minhnv1002&show_icons=true&locale=vi&layout=compact" alt="minhnv1002" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=minhnv1002&show_icons=true&locale=vi" alt="minhnv1002" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhnv1002&" alt="minhnv1002" /></p>
