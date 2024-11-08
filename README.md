@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://devhumor.com/content/uploads/images/January2020/Food-coma-animation.gif">
 - 💬 Hỏi tôi về * *.NET framework, C#, ASP.NET CORE**
 
-- 📫 Cách liên hệ với tôi **boundary01@gmail.com**
+- 📫 Cách liên hệ với tôi **boundary1710@gmail.com**
 
 - ⚡ Thông tin thú vị **Troller**
 
